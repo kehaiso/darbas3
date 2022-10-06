@@ -50,7 +50,8 @@ margin: 0 auto;
 margin-top: 100px;
 }
 
-.zin { display: inline-block;
+.zin { 
+display: inline-block;
 border-style: solid;
 border-color: grey;
 border-width: 2px;
