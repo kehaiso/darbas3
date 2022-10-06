@@ -1,0 +1,99 @@
+body {
+  background-color: lightsteelblue;
+  margin: 0;
+}
+
+.nez {
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  padding-top: 0;
+  text-align: left;
+  right: 0px; 
+  top: 0;
+  position: absolute;
+  font-size: 0;
+}
+
+li {
+  display: inline-block;
+}
+
+.li1 {
+  background-color: orangered;
+}
+
+.li2 {
+  background-color: powderblue;
+}
+
+.li3 {
+  background-color: olivedrab;
+}
+
+.li4 {
+  background-color: yellow;
+}
+
+li a {
+  font-size: 20px;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(128, 123, 123);
+}
+
+div {
+display: table;
+margin: 0 auto;
+margin-top: 100px;
+}
+
+.zin { display: inline-block;
+border-style: solid;
+border-color: grey;
+border-width: 2px;
+background-color: white;
+margin: 20px;
+padding-inline-start: 0;
+padding: 40px;
+}
+
+.op1 {
+color: royalblue;
+text-align: center;
+}
+
+.op2 {
+color: orange;
+text-align: center;
+}
+
+p {
+text-align: center;
+}
+
+button {
+margin: 30px;
+display: table;
+margin: 0 auto;
+}
+
+.ch1 {
+background-color: royalblue;
+}
+
+.ch2 {
+background-color: orange;
+}
+
+.ch1, .ch2 {
+padding: 10px;
+border-color:white;
+color:white;
+border-radius: 8px;
+}
