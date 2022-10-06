@@ -1,47 +1,47 @@
 body {
-  background-color: lightsteelblue;
-  margin: 0;
+background-color: lightsteelblue;
+margin: 0;
 }
 
 .nez {
-  padding-top: 0;
-  right: 0px; 
-  top: 0;
-  position: absolute;
-  font-size: 0;
+padding-top: 0;
+right: 0px; 
+top: 0;
+position: absolute;
+font-size: 0;
 }
 
 li {
-  display: inline-block;
+display: inline-block;
 }
 
 .li1 {
-    background-color: orangered;
+background-color: orangered;
 }
 
 .li2 {
-  background-color: powderblue;
+background-color: powderblue;
 }
 
 .li3 {
-  background-color: olivedrab;
+background-color: olivedrab;
 }
 
 .li4 {
-  background-color: yellow;
+background-color: yellow;
 }
 
 li a {
-  font-size: 20px;
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+font-size: 20px;
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
 }
 
 li a:hover {
-  background-color: rgb(128, 123, 123);
+background-color: rgb(128, 123, 123);
 }
 
 div {
